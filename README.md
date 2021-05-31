@@ -8,7 +8,7 @@
  <a href="mailto:cagatay.alsancak71@gmail.com"><img src="https://img.shields.io/badge/Gmail-007700.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h4 align='center'>Tipe beğenmemezlik yapıp kibire kapılanın sayfamda işi yoktur. Yolu açık olsun.</h4>
+<h4 align='center'>Tipine göre beğenmemezlik yapıp kibire kapılanın sayfamda işi yoktur. Yolu açık olsun.</h4>
 
 <a href="https://github.com/cagatayalsancak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cagatayalsancak&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
 <a href="https://github.com/cagatayalsancak"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayalsancak&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7" /></a>
